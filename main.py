@@ -63,7 +63,7 @@ api.add_resource(Item,'/item')
 
 # api.add_resource(ItemList,'/items') 
 
-app.run(port= 8080,debug = True)
+app.run(host='127.0.0.1', port=8080, debug=True)
 
 
 #https://keyan-songweather-sozf2mxdda-uc.a.run.app/
