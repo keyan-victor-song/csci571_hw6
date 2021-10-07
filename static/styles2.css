@@ -1,0 +1,190 @@
+body{ background-color: rgba(230,230,230);
+    margin: 0 auto;}
+
+.searchCard{
+    height: 600px;
+    width: 800px;
+    margin: 0 auto;
+    border:1px solid #736663;
+    background-color: white;
+}
+
+
+
+
+.searchCard .header{
+    padding: 20px;
+    background-image:
+    url(https://previews.123rf.com/images/jittawit/jittawit1707/jittawit170700028/82256016-the-big-white-clouds-float-in-the-sky-the-wind-blowing-away-let-the-clouds-move-the-sun-shines-.jpg);
+    padding-left: 30px;
+    border-bottom:1px #736663
+}
+
+.searchCard .header  h1{
+    font-size: 25px;
+    padding-bottom: 10px;
+    color: rgba(30, 30, 30, 0.7);
+}
+
+.searchCard .header  h3{
+    font-size: 15px;
+    color: rgba(30, 30, 30, 0.6);
+}
+
+.searchCard form{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    padding-left: 30px;
+
+}
+.searchCard  form .star{
+    color: #FA8F76;
+}
+
+
+
+
+
+
+.searchCard form label{
+    color: cornflowerblue;
+    word-wrap:break-word;
+}
+
+.searchCard form .part1 input{
+    width: 700px;
+    border:1px solid #736663;
+    
+}
+
+
+
+
+.searchCard form .part2{
+    margin-top: 30px;
+    
+}
+
+.searchCard form .part2 input{
+    width: 400px;
+    word-wrap:break-word;
+    margin-right: 65px;
+}
+
+.searchCard form .part2 .stateLabel{
+    margin-left: 430px;
+}
+
+.searchCard form .part2 select{
+    font-size: 20px;
+    width: 230px;
+}
+
+
+
+
+
+
+
+.searchCard form .part3{
+    
+    word-wrap:break-word;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.searchCard form .part3 hr{
+    float: left;
+    width: 700px;
+    color: royalblue;
+}
+
+.searchCard form .part3 a{
+    word-wrap:break-word;
+}
+
+.searchCard form .part3 input{
+    white-space:nowrap; 
+    overflow: hidden;
+}
+
+.searchCard form .part4 input{
+    background:#0066A2;
+    color:white;
+    border-style:outset;
+    border-color:#0066A2;
+    height:50px;
+    width:100px;
+    font:15px arial,sans-serif;
+    text-shadow:none;
+} 
+
+.searchCard form .part4 button{
+    background:rgb(238, 186, 40);
+    color:white;
+    border-style:outset;
+    border-color:rgb(238, 186, 40);
+    height:50px;
+    width:100px;
+    font:15px arial,sans-serif;
+    text-shadow:none;
+} 
+
+
+
+
+#timeline {
+    height: 600px;
+    width: 1200px;
+    padding-top: 300px;
+}
+    
+
+#timelineTable {
+    width: 1200px;
+    border-collapse: separate;
+    border-spacing: 0px 5px;
+}
+
+#timeline #timelineTable tr:first-child{
+    margin: 0 auto;
+    background-color: rgba(89,109,174);
+    width: 1200px;
+}
+
+
+
+#timeline #timelineTable tr{
+    background-color: white;
+    margin: 0 auto;
+    text-align: center;
+    width: 1200px;
+    height: 60px;
+}
+
+#timeline #timelineTable tr:first-child th{
+    vertical-align: top;
+    margin: 0 auto;
+    text-align: center;
+    height: 20px;
+}
+
+
+
+#showChart{
+    text-align: center;
+}
+
+#showChart h1{
+    margin: 0 auto;
+}
+
+
+#showChart img{
+    height: 30px;
+    width: 30px;
+}
+
+#Moretitle{
+    text-align: center;
+}

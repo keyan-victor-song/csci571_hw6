@@ -1,0 +1,115 @@
+#weatherCard{
+    height: 350px;
+    width: 450px;
+    margin: 0 auto;
+    border:1px solid #736663;
+    margin-top: 50px;
+    padding: 30px;
+    background-image: linear-gradient(#FAFAFA, rgb(65,80,125));
+}
+
+#weatherCard .bigPic{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+
+#weatherCard .clearity{
+    font-size: 20px;
+    color: rgb(65,80,125);
+}
+
+
+#weatherCard h3{
+    color: rgb(65,80,125);
+}
+
+
+#weatherCard .bigTempreature{
+    color: rgb(65,80,125);
+    font-size: 30px;
+    
+}
+
+
+#weatherDetail{
+    padding-top: 20px;
+    
+}
+
+#weatherDetail .description{
+    padding-left: 120px;
+    color: snow;
+    display: inline;
+    
+}
+
+#weatherDetail .pic{
+    color: rgb(220, 216, 216);
+    display: inline;
+}
+
+
+#weatherDetail .humidity{
+    display: block;
+    margin: 0 auto;
+}
+
+#weatherDetail #Humidity_N{
+    display: inline;
+    color: snow;
+}
+
+#weatherDetail .Pressure{
+    display: block;
+    margin: 0 auto;
+}
+
+#weatherDetail #Pressure_N{
+    display: inline;
+    color: snow;
+}
+
+
+#weatherDetail .WindSpeed{
+    display: block;
+    margin: 0 auto;
+}
+
+#weatherDetail #WindSpeed_N{
+    display: inline;
+    color: snow;
+}
+
+
+#weatherDetail .Visibility{
+    display: block;
+    margin: 0 auto;
+}
+
+#weatherDetail #Visibility_N{
+    display: inline;
+    color: snow;
+}
+
+
+#weatherDetail .CloudCover{
+    display: block;
+    margin: 0 auto;
+}
+
+#weatherDetail #CloudCover_N{
+    display: inline;
+    color: snow;
+}
+
+
+#weatherDetail .UVLevel{
+    display: block;
+    margin: 0 auto;
+}
+
+#weatherDetail #UVLevel_N{
+    display: inline;
+    color: snow;
+}

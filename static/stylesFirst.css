@@ -1,0 +1,134 @@
+#weatherCard{
+    height: 520px;
+    width: 860px;
+    margin: 0 auto;
+    border:1px solid #736663;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 100px;
+    background-color: white;
+}
+
+#weatherCard h3{
+    color: rgba(127, 127, 127);
+}
+
+#weatherCard .bigPic{
+    height: 100px;
+    width: 100px;
+}
+
+#weatherCard .clearity{
+    color: silver;
+}
+
+#weatherCard .bigTempreature{
+    float: right;
+    color: rgba(127, 127, 127);
+    font-size: 100px;
+    margin-right: 80px;
+}
+
+
+#weatherDetail{
+    padding-top: 120px;
+}
+
+
+#weatherDetail .pic{
+    height: 35px;
+    width: 47px;
+    padding-left: 12px;
+}
+
+#weatherDetail .description{
+    color: rgba(127, 127, 127);
+}
+
+#weatherDetail .humidity{
+    display: block;
+    height: 150px;
+    width: 100px;
+    float: left;
+    margin: 0 auto;
+}
+
+#weatherDetail #Humidity_N{
+    color: rgba(127, 127, 127);
+    padding-top: 10px;
+    padding-left: 12px;
+}
+
+#weatherDetail .Pressure{
+    display: block;
+    height: 150px;
+    width: 100px;
+    float: left;
+    margin: 0 auto;
+}
+
+#weatherDetail #Pressure_N{
+    color: rgba(127, 127, 127);
+    padding-top: 10px;
+    padding-left: 12px;
+}
+
+#weatherDetail .WindSpeed{
+    display: block;
+    height: 150px;
+    width: 100px;
+    float: left;
+    margin: 0 auto;
+}
+
+#weatherDetail #WindSpeed_N{
+    color: rgb(30, 30, 30,0.8);
+    padding-top: 10px;
+    padding-left: 12px;
+}
+
+
+#weatherDetail .Visibility{
+    display: block;
+    height: 150px;
+    width: 100px;
+    float: left;
+    margin: 0 auto;
+}
+
+#weatherDetail #Visibility_N{
+    color: rgba(127, 127, 127);
+    padding-top: 10px;
+    padding-left: 12px;
+}
+
+
+#weatherDetail .CloudCover{
+    display: block;
+    height: 150px;
+    width: 100px;
+    float: left;
+    margin: 0 auto;
+}
+
+#weatherDetail #CloudCover_N{
+    color: rgba(127, 127, 127);
+    padding-top: 10px;
+    padding-left: 12px;
+}
+
+
+#weatherDetail .UVLevel{
+    display: block;
+    height: 150px;
+    width: 100px;
+    float: left;
+    margin: 0 auto;
+}
+
+#weatherDetail #UVLevel_N{
+    color: rgba(127, 127, 127);
+    padding-top: 10px;
+    padding-left: 28px;
+}
+
